@@ -4,7 +4,7 @@ Compiled build only. The source lives in a private repository.
 
 **Open it:** https://alyubomi.github.io/idc-web/
 
-Built from commit `725dc78`.
+Built from commit `6523e03` (v0.6).
 
 ## What this build is, and is not
 
